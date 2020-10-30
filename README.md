@@ -6,3 +6,4 @@
 - https://www.w3resource.com/mysql-exercises/northwind/products-table-exercises/
 
 ## Contents
+- Part 1: https://www.w3resource.com/mysql-exercises/northwind/products-table-exercises/
