@@ -20,7 +20,7 @@
 ## Db Schemas
 
 ### Northwind Schema
-![DbSchema](/nothwind_schema.png)
+![DbSchema](/northwind_schema.png)
 
 ### Rental Schema
-![DbSchema2](/rental_schema.jpg)
+![DbSchema2](/rental_schema.JPG)
