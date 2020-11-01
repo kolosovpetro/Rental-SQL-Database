@@ -1,4 +1,4 @@
-# Northwind SQL Practice
+# Rental Store SQL
 
 ## Source
 
@@ -7,14 +7,9 @@
 
 ## Contents
 
-### Northwind Database
-
-- Part 1: https://www.w3resource.com/mysql-exercises/northwind/products-table-exercises/
-- Part 2: https://www.w3resource.com/mysql-exercises/basic-simple-exercises/index.php
-- Part 3: https://github.com/OriginCodeAcademy/Syllabus/blob/master/Coding%20Exercises/sql/DML-exercises.md
-
 ### Rental Database
 - Source: https://github.com/kolosovpetro/Complete-CodeFirst-Approach
+
 1. Selection
    * Lecture https://kolosovpetro.github.io/cs/data_bases/SQL01.pdf
    * Exercises https://kolosovpetro.github.io/cs/data_bases/exercises/SQLExercise_01_Select.pdf
